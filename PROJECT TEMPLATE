@@ -1,0 +1,90 @@
+## **1. Project Title**
+
+**Lifestyle and Sleep Quality Analysis**
+
+---
+
+## **2. Problem Statement**
+
+People experience poor sleep quality, stress, and irregular lifestyles, but the key factors influencing these outcomes are not clearly understood.
+This project analyzes lifestyle data to identify patterns that affect sleep quality and overall health.
+
+---
+
+## **3. Objectives**
+
+1. Analyze sleep duration and sleep quality.
+2. Examine the relationship between stress, physical activity, and health.
+3. Identify common sleep disorders and their patterns.
+4. Provide insights that can help improve lifestyle habits.
+
+---
+
+## **4. Dataset Description**
+
+The dataset contains the following variables:
+
+* Age
+* Gender
+* Occupation
+* Sleep Duration
+* Quality of Sleep
+* Stress Level
+* Physical Activity
+* BMI Category
+* Heart Rate
+* Blood Pressure
+* Daily Steps
+* Sleep Disorder
+
+---
+
+## **5. Tools Used**
+Microsoft excel
+* **Python**
+* **Pandas** – Data cleaning
+* **Matplotlib & Seaborn** – Visualizations
+
+---
+
+## **6. Methodology**
+
+1. Load the dataset into Python.
+2. Clean data (split blood pressure, convert numeric fields).
+3. Perform exploratory analysis.
+4. Visualize key relationships (sleep, stress, activity, BMI).
+5. Interpret results and generate insights.
+
+---
+
+## **7. Key Analysis Questions**
+
+* What is the average sleep duration?
+* Does stress level affect sleep quality?
+* Which occupations have the highest stress?
+* What are the most common sleep disorders?
+* How does physical activity relate to daily steps?
+
+---
+
+## **8. Visualizations**
+
+* Sleep duration by occupation
+* Stress vs sleep duration
+* Sleep disorder counts
+* Correlation heatmap
+
+---
+
+## **9. Insights (Examples)**
+
+* Higher stress is linked to lower sleep quality.
+* Physical activity increases daily steps and overall health.
+* Sleep apnea is more common among overweight and obese categories.
+
+---
+
+## **10. Conclusion**
+
+The project provides clear evidence that lifestyle factors such as stress, physical activity, and BMI significantly influence sleep quality and health indicators.
+
